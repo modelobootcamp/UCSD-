@@ -10,6 +10,14 @@ gradebook.db
 # Editor
 .vscode
 
+# Lesson Plans
+LessonPlan*
+Solved*
+Solved/
+TimeTracker.xlsx
+
+
+
 
 # Jupyter Checkpoints
 
