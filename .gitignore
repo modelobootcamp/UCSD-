@@ -6,14 +6,13 @@ gradebook.db
 
 # Idea
 .idea
-
 # Editor
 .vscode
 
 # Lesson Plans
 LessonPlan*
-Solved*
-Solved/
+#Solved*
+#Solved/
 TimeTracker.xlsx
 
 
