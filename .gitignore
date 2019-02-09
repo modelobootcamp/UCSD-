@@ -11,8 +11,8 @@ gradebook.db
 
 # Lesson Plans
 LessonPlan*
-#Solved*
-#Solved/
+Solved*
+Solved/
 TimeTracker.xlsx
 
 
